@@ -1,6 +1,6 @@
 # Hi, I'm Bella Baelfire
 
-I'm a Project Katon cofounder based in Tampa, Florida. I started coding in my teens, and I enjoy creative problem solving, practical automation, and building useful software.
+I'm a Project Katon collaborator based in Tampa, Florida. I started coding in my teens, and I enjoy creative problem solving, practical automation, and building useful software.
 
 My current focus is TypeScript, JavaScript, Python, React, and SQL. I take on scoped bug fixes, automation scripts, integrations, and application features, with agreed deliverables and testing.
 
