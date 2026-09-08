@@ -11,7 +11,7 @@ Through my work at Project Katon, my experience and access to specialist collabo
 - Web and data: TypeScript, JavaScript, React, Node.js, Python, SQL, Vite, PixiJS, and Cloudflare Workers, D1, and Durable Objects.
 - Android: Kotlin, Java, Jetpack Compose, Room, SQLCipher, WorkManager, BLE, OCR, and Gradle.
 - Desktop: C#/.NET, C++, Qt, PySide, QML, Electron, and Windows tooling.
-- Games and graphics: Godot 4, GDScript, Blender, GLB assets, and Windows/Android build workflows, including work on Hangman of the Dead.
+- Games and graphics: Godot 4, GDScript, Blender, GLB assets, and Windows/Android build workflows.
 - Embedded systems: C, C++, ESP32, ESP-IDF, FreeRTOS, LVGL, and CMake.
 - Delivery and tooling: Git, CI, testing, PowerShell, Bash, batch scripts, and API integrations.
 
